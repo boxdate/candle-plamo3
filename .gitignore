@@ -1,0 +1,8 @@
+/target
+Cargo.lock
+*.gguf
+*.safetensors
+*.bin
+tokenizer.json
+tokenizer.jsonl
+.DS_Store
